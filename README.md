@@ -8,6 +8,8 @@ PyAutoGUI (pip install pyautogui)
 Screen Brightness Control (pip install screen_brightness_control)
 pycaw (pip install pycaw)
 ctypes (pip install ctypes)
+
+
 Description:
 The hand gesture controller program uses a webcam to detect hand gestures and performs various actions based on the recognized gestures. It utilizes the MediaPipe library for hand tracking and gesture recognition, OpenCV for video capture and processing, PyAutoGUI for controlling the mouse and keyboard, screen_brightness_control for adjusting screen brightness, and pycaw for adjusting system volume.
 
